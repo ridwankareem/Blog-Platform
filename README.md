@@ -7,4 +7,4 @@ This API allows users to register, login, create blog posts, comment, and manage
 - Copy `.env.example` to `.env` and fill values.
 - `npm install`
 - `npm run dev`
-- Server runs on `http://localhost:5001` by default
+- Server runs on `http://localhost:5000` by default
